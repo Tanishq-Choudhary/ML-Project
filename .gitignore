@@ -1,0 +1,6 @@
+*.parquet
+__pycache__/
+.ipynb_checkpoints/
+_build*.py
+_fix*.py
+*.pyc
